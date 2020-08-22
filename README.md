@@ -11,3 +11,6 @@ npm install @react-navigation/stack
 
 4.
 npm install @react-navigation/bottom-tabs
+
+5.
+npm install @react-navigation/drawer

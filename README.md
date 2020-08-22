@@ -8,3 +8,6 @@ npm install react-native-reanimated react-native-gesture-handler react-native-sc
 
 3.
 npm install @react-navigation/stack
+
+4.
+npm install @react-navigation/bottom-tabs
